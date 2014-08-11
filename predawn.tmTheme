@@ -168,7 +168,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F49D62</string>
+				<string>#FFFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -804,17 +804,6 @@ COLOR KEY
 			<dict>
 				<key>foreground</key>
 				<string>#B4D388</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>PHP: Keyword Operator</string>
-			<key>scope</key>
-			<string>keyword.operator.logical.php, keyword.operator.assignment.php, keyword.operator.class.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#999</string>
 			</dict>
 		</dict>
 		<dict>
